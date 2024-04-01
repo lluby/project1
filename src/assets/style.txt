@@ -1,0 +1,16 @@
+:root{
+    --primary-color: #000000;
+    --secondary-color: #ffffff;
+    --color-text: #000000;
+    --navbar-color: #ffffff;
+    --navbar-color-text: #000000;
+    --footer-color: #007F99
+    --footer-color-text: #FFFFFF;
+}
+
+header{
+    background: #FFFFFF;
+    background: -webkit-linear-gradient(to left, #0BA5BB);
+    background: linear-gradient(to left, #B0E5EE)
+}
+
